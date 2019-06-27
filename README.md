@@ -1,6 +1,6 @@
-# Java-App-Service-CI-CD-using-Maven-and-VSTS
+# Java-App-Service-CI-CD-using-Maven-and-VSTS -
 
-In this example we will be creating a continuous integration  and continuous deployment for a Java application to Azure App Services using Visual Studio Team Services (VSTS) & Apache Maven.
+In this example we will be creating a continuous integration  and continuous deployment for a Java application to Azure App Services using Visual Studio Team Services (VSTS) & Apache Maven. Demo Change
 
 ## Deploy and Configure an Azure Web App
 
